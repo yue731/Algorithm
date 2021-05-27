@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2d26e1e-4dc9-45e6-aa19-afbd739684d7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sh23ySpyXqW9GXHGU6zFIJAUsr" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.RandomWord">
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="HelloGoodbye" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloGoodbye" />
+      <module name="HelloWorld" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HelloWorld" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomWord" />
+      <module name="HelloWorld" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.HelloGoodbye" />
+      <item itemvalue="Application.RandomWord" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RandomWord" />
+        <item itemvalue="Application.HelloGoodbye" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1920" height="377" key="GridCell.Tab.0.bottom" timestamp="1621536438950">
+      <screen x="1648" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="377" key="GridCell.Tab.0.bottom/0.23.1440.877/-272.-1057.1920.1057/1648.-1057.1920.1057@1648.-1057.1920.1057" timestamp="1621536438950" />
+    <state width="1680" height="306" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1621317541781" />
+    <state width="1920" height="377" key="GridCell.Tab.0.center" timestamp="1621536438947">
+      <screen x="1648" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="377" key="GridCell.Tab.0.center/0.23.1440.877/-272.-1057.1920.1057/1648.-1057.1920.1057@1648.-1057.1920.1057" timestamp="1621536438947" />
+    <state width="1680" height="306" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1621317541780" />
+    <state width="1920" height="377" key="GridCell.Tab.0.left" timestamp="1621536438945">
+      <screen x="1648" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="377" key="GridCell.Tab.0.left/0.23.1440.877/-272.-1057.1920.1057/1648.-1057.1920.1057@1648.-1057.1920.1057" timestamp="1621536438945" />
+    <state width="1680" height="306" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1621317541779" />
+    <state width="1920" height="377" key="GridCell.Tab.0.right" timestamp="1621536438948">
+      <screen x="1648" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="377" key="GridCell.Tab.0.right/0.23.1440.877/-272.-1057.1920.1057/1648.-1057.1920.1057@1648.-1057.1920.1057" timestamp="1621536438948" />
+    <state width="1680" height="306" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1621317541780" />
+    <state width="1920" height="377" key="GridCell.Tab.1.bottom" timestamp="1621536438956">
+      <screen x="1648" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="377" key="GridCell.Tab.1.bottom/0.23.1440.877/-272.-1057.1920.1057/1648.-1057.1920.1057@1648.-1057.1920.1057" timestamp="1621536438956" />
+    <state width="1920" height="377" key="GridCell.Tab.1.center" timestamp="1621536438953">
+      <screen x="1648" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="377" key="GridCell.Tab.1.center/0.23.1440.877/-272.-1057.1920.1057/1648.-1057.1920.1057@1648.-1057.1920.1057" timestamp="1621536438953" />
+    <state width="1920" height="377" key="GridCell.Tab.1.left" timestamp="1621536438952">
+      <screen x="1648" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="377" key="GridCell.Tab.1.left/0.23.1440.877/-272.-1057.1920.1057/1648.-1057.1920.1057@1648.-1057.1920.1057" timestamp="1621536438952" />
+    <state width="1920" height="377" key="GridCell.Tab.1.right" timestamp="1621536438954">
+      <screen x="1648" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="377" key="GridCell.Tab.1.right/0.23.1440.877/-272.-1057.1920.1057/1648.-1057.1920.1057@1648.-1057.1920.1057" timestamp="1621536438954" />
+    <state x="2096" y="-947" key="SettingsEditor" timestamp="1621318478038">
+      <screen x="1648" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="2096" y="-947" key="SettingsEditor/0.23.1440.877/-272.-1057.1920.1057/1648.-1057.1920.1057@1648.-1057.1920.1057" timestamp="1621318478038" />
+  </component>
+</project>
