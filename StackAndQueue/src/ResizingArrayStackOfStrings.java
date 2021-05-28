@@ -4,7 +4,7 @@ public class ResizingArrayStackOfStrings {
 
     public ResizingArrayStackOfStrings() {
         this.s = new String[1];
-        this.N = N;
+        this.N = 0;
     }
 
     public void push(String item) {
