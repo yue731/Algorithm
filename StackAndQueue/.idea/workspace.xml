@@ -42,10 +42,26 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ArithmeticEXpressionEval">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="ArithmeticEXpressionEval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArithmeticEXpressionEval" />
+      <module name="StackAndQueue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="StackAndQueue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -60,8 +76,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArithmeticEXpressionEval" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="WindowStateProjectService">
+    <state x="2466" y="-815" key="#com.intellij.ide.util.MemberChooser" timestamp="1622339239392">
+      <screen x="1693" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="2466" y="-815" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/-227.-1057.1920.1057/1693.-1057.1920.1057@1693.-1057.1920.1057" timestamp="1622339239392" />
+    <state width="1920" height="220" key="GridCell.Tab.0.bottom" timestamp="1622473972704">
+      <screen x="-227" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="220" key="GridCell.Tab.0.bottom/0.23.1440.877/-227.-1057.1920.1057/1693.-1057.1920.1057@-227.-1057.1920.1057" timestamp="1622473972704" />
+    <state width="1920" height="220" key="GridCell.Tab.0.bottom/0.23.1440.877/-227.-1057.1920.1057/1693.-1057.1920.1057@1693.-1057.1920.1057" timestamp="1622342132559" />
+    <state width="1920" height="220" key="GridCell.Tab.0.center" timestamp="1622473972697">
+      <screen x="-227" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="220" key="GridCell.Tab.0.center/0.23.1440.877/-227.-1057.1920.1057/1693.-1057.1920.1057@-227.-1057.1920.1057" timestamp="1622473972697" />
+    <state width="1920" height="220" key="GridCell.Tab.0.center/0.23.1440.877/-227.-1057.1920.1057/1693.-1057.1920.1057@1693.-1057.1920.1057" timestamp="1622342132557" />
+    <state width="1920" height="220" key="GridCell.Tab.0.left" timestamp="1622473972696">
+      <screen x="-227" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="220" key="GridCell.Tab.0.left/0.23.1440.877/-227.-1057.1920.1057/1693.-1057.1920.1057@-227.-1057.1920.1057" timestamp="1622473972696" />
+    <state width="1920" height="220" key="GridCell.Tab.0.left/0.23.1440.877/-227.-1057.1920.1057/1693.-1057.1920.1057@1693.-1057.1920.1057" timestamp="1622342132554" />
+    <state width="1920" height="220" key="GridCell.Tab.0.right" timestamp="1622473972703">
+      <screen x="-227" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="220" key="GridCell.Tab.0.right/0.23.1440.877/-227.-1057.1920.1057/1693.-1057.1920.1057@-227.-1057.1920.1057" timestamp="1622473972703" />
+    <state width="1920" height="220" key="GridCell.Tab.0.right/0.23.1440.877/-227.-1057.1920.1057/1693.-1057.1920.1057@1693.-1057.1920.1057" timestamp="1622342132558" />
     <state x="2141" y="-947" key="SettingsEditor" timestamp="1622132100729">
       <screen x="1693" y="-1057" width="1920" height="1057" />
     </state>
