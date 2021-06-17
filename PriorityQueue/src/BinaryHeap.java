@@ -52,4 +52,8 @@ public class BinaryHeap<Key extends Comparable<Key>> {
         pq[N + 1] = null;
         return max;
     }
+
+    private boolean isEmpty() {
+        return N == 0;
+    }
 }
