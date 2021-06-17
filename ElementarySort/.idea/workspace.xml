@@ -37,12 +37,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Selection">
+  <component name="RunManager" selected="Application.KnuthShuffle">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -55,8 +55,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Insertion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Insertion" />
+      <module name="ElementarySort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KnuthShuffle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KnuthShuffle" />
+      <module name="ElementarySort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Selection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Selection" />
+      <module name="ElementarySort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShellSort" />
       <module name="ElementarySort" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -78,6 +102,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KnuthShuffle" />
+        <item itemvalue="Application.ShellSort" />
+        <item itemvalue="Application.Insertion" />
         <item itemvalue="Application.Selection" />
         <item itemvalue="Application.CustomDate" />
       </list>
@@ -88,21 +115,25 @@
       <screen x="1693" y="-1057" width="1920" height="1057" />
     </state>
     <state x="2466" y="-815" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/-227.-1057.1920.1057/1693.-1057.1920.1057@1693.-1057.1920.1057" timestamp="1622567834442" />
-    <state width="1920" height="306" key="GridCell.Tab.0.bottom" timestamp="1622568109811">
+    <state width="1920" height="306" key="GridCell.Tab.0.bottom" timestamp="1622781879889">
       <screen x="1693" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1920" height="306" key="GridCell.Tab.0.bottom/0.23.1440.877/-227.-1057.1920.1057/1693.-1057.1920.1057@1693.-1057.1920.1057" timestamp="1622568109811" />
-    <state width="1920" height="306" key="GridCell.Tab.0.center" timestamp="1622568109809">
+    <state width="1920" height="306" key="GridCell.Tab.0.bottom/0.23.1440.877/-227.-1057.1920.1057/1693.-1057.1920.1057@1693.-1057.1920.1057" timestamp="1622781879889" />
+    <state width="1920" height="306" key="GridCell.Tab.0.center" timestamp="1622781879888">
       <screen x="1693" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1920" height="306" key="GridCell.Tab.0.center/0.23.1440.877/-227.-1057.1920.1057/1693.-1057.1920.1057@1693.-1057.1920.1057" timestamp="1622568109809" />
-    <state width="1920" height="306" key="GridCell.Tab.0.left" timestamp="1622568109808">
+    <state width="1920" height="306" key="GridCell.Tab.0.center/0.23.1440.877/-227.-1057.1920.1057/1693.-1057.1920.1057@1693.-1057.1920.1057" timestamp="1622781879888" />
+    <state width="1920" height="306" key="GridCell.Tab.0.left" timestamp="1622781879888">
       <screen x="1693" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1920" height="306" key="GridCell.Tab.0.left/0.23.1440.877/-227.-1057.1920.1057/1693.-1057.1920.1057@1693.-1057.1920.1057" timestamp="1622568109808" />
-    <state width="1920" height="306" key="GridCell.Tab.0.right" timestamp="1622568109810">
+    <state width="1920" height="306" key="GridCell.Tab.0.left/0.23.1440.877/-227.-1057.1920.1057/1693.-1057.1920.1057@1693.-1057.1920.1057" timestamp="1622781879888" />
+    <state width="1920" height="306" key="GridCell.Tab.0.right" timestamp="1622781879889">
       <screen x="1693" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1920" height="306" key="GridCell.Tab.0.right/0.23.1440.877/-227.-1057.1920.1057/1693.-1057.1920.1057@1693.-1057.1920.1057" timestamp="1622568109810" />
+    <state width="1920" height="306" key="GridCell.Tab.0.right/0.23.1440.877/-227.-1057.1920.1057/1693.-1057.1920.1057@1693.-1057.1920.1057" timestamp="1622781879889" />
+    <state x="2141" y="-947" key="SettingsEditor" timestamp="1622733927504">
+      <screen x="1693" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="2141" y="-947" key="SettingsEditor/0.23.1440.877/-227.-1057.1920.1057/1693.-1057.1920.1057@1693.-1057.1920.1057" timestamp="1622733927504" />
   </component>
 </project>
