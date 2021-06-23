@@ -53,6 +53,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="heapsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heapsort" />
+      <module name="PriorityQueue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -60,5 +68,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.heapsort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1920" height="306" key="GridCell.Tab.0.bottom" timestamp="1623990640099">
+      <screen x="1920" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="306" key="GridCell.Tab.0.bottom/0.23.1440.877/0.-1057.1920.1057/1920.-1057.1920.1057@1920.-1057.1920.1057" timestamp="1623990640099" />
+    <state width="1920" height="306" key="GridCell.Tab.0.center" timestamp="1623990640092">
+      <screen x="1920" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="306" key="GridCell.Tab.0.center/0.23.1440.877/0.-1057.1920.1057/1920.-1057.1920.1057@1920.-1057.1920.1057" timestamp="1623990640092" />
+    <state width="1920" height="306" key="GridCell.Tab.0.left" timestamp="1623990640091">
+      <screen x="1920" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="306" key="GridCell.Tab.0.left/0.23.1440.877/0.-1057.1920.1057/1920.-1057.1920.1057@1920.-1057.1920.1057" timestamp="1623990640091" />
+    <state width="1920" height="306" key="GridCell.Tab.0.right" timestamp="1623990640098">
+      <screen x="1920" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="306" key="GridCell.Tab.0.right/0.23.1440.877/0.-1057.1920.1057/1920.-1057.1920.1057@1920.-1057.1920.1057" timestamp="1623990640098" />
   </component>
 </project>

@@ -8,13 +8,13 @@ public class BinaryHeap<Key extends Comparable<Key>> {
         N = 0;
     }
 
-    private void swap(Comparable[] a, int i, int j) {
-        Comparable temp = a[i];
+    private void swap(Key[] a, int i, int j) {
+        Key temp = a[i];
         a[i] = a[j];
         a[j] = temp;
     }
 
-    private boolean less(Comparable v, Comparable w) {
+    private boolean less(Key v, Key w) {
         return v.compareTo(w) < 0;
     }
 
