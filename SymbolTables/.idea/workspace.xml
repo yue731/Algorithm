@@ -37,7 +37,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -62,9 +62,13 @@
     </configuration>
   </component>
   <component name="WindowStateProjectService">
-    <state x="2449" y="-815" key="#com.intellij.ide.util.MemberChooser" timestamp="1624556280010">
+    <state x="2449" y="-815" key="#com.intellij.ide.util.MemberChooser" timestamp="1624567698254">
       <screen x="1676" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="2449" y="-815" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/1676.-1057.1920.1057/-244.-1057.1920.1057@1676.-1057.1920.1057" timestamp="1624556280010" />
+    <state x="2449" y="-815" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/1676.-1057.1920.1057/-244.-1057.1920.1057@1676.-1057.1920.1057" timestamp="1624567698254" />
+    <state x="2124" y="-947" key="SettingsEditor" timestamp="1624560899466">
+      <screen x="1676" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="2124" y="-947" key="SettingsEditor/0.23.1440.877/1676.-1057.1920.1057/-244.-1057.1920.1057@1676.-1057.1920.1057" timestamp="1624560899466" />
   </component>
 </project>
